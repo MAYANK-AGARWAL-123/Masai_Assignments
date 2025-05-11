@@ -1,0 +1,22 @@
+{
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Idly",
+        "price": 50,
+        "category": "Breakfast"
+      },
+      {
+        "id": 2,
+        "name": "Dosa",
+        "price": 70,
+        "category": "Breakfast"
+      },
+      {
+        "id": 3,
+        "name": "Biryani",
+        "price": 200,
+        "category": "Lunch"
+      }
+    ]
+  }
